@@ -7,3 +7,4 @@
 
    commit-message.rst
    linux.rst
+   rest.rst
