@@ -13,6 +13,7 @@ master_doc = "index"
 language = "ru"
 exclude_patterns = ["README.rst", "build", ".*"]
 highlight_language = "none"
+templates_path = ["_templates"]
 
 copyright = '2021-{} АО НПЦ "ЭЛВИС"'.format(datetime.datetime.now().year)
 
